@@ -1,0 +1,46 @@
+name: Research question or evidence
+description: Share a bounded question, source, reproduction result, or correction.
+title: "[Research] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form for a source lead, question, proposed reading, reproduction attempt, or correction.
+        State uncertainty and credit earlier work. A complete solution is not required.
+        This issue is public. Do not upload restricted scans, private data, or material you lack permission to share.
+        A source link is preferable when redistribution rights are unclear.
+  - type: textarea
+    id: question
+    attributes:
+      label: Question or claim
+      description: Identify the project and the specific point you want to investigate or correct.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Source and evidence
+      description: Give the source link or identifier and exact location. Describe what you inspected and what remains unavailable.
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Method and reproduction
+      description: When applicable, provide inputs, code version, steps, assumptions, expected output, and actual output.
+    validations:
+      required: false
+  - type: textarea
+    id: uncertainty
+    attributes:
+      label: Uncertainty and alternatives
+      description: Separate observations from interpretation. Note ambiguous signs, failed checks, exposure to expected text, or other explanations.
+    validations:
+      required: false
+  - type: textarea
+    id: credit
+    attributes:
+      label: Earlier work, AI assistance, and rights
+      description: Credit relevant researchers and materials. Describe AI assistance and checks, if used, and any limits on sharing source material.
+    validations:
+      required: false
