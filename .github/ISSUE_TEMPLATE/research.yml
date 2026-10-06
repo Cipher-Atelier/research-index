@@ -1,46 +1,33 @@
-name: Research question or evidence
-description: Share a bounded question, source, reproduction result, or correction.
+name: Work on existing research
+description: Coordinate a task or share evidence, a reproduction, a correction, or a documentation issue.
 title: "[Research] "
+assignees: [cayde-6]
 body:
   - type: markdown
     attributes:
       value: |
-        Use this form for a source lead, question, proposed reading, reproduction attempt, or correction.
-        State uncertainty and credit earlier work. A complete solution is not required.
-        This issue is public. Do not upload restricted scans, private data, or material you lack permission to share.
-        A source link is preferable when redistribution rights are unclear.
+        Use the relevant project repository when possible. If an issue already covers this work, comment there instead of opening a duplicate.
+        A small source lead or documentation fix is welcome. Independent replication and constructive challenges do not need advance permission.
+        For a new investigation, use Propose new research in Cipher-Atelier/research-index.
+        This issue is public. Do not upload private data, restricted scans, or material you lack permission to share.
   - type: textarea
-    id: question
+    id: target
     attributes:
-      label: Question or claim
-      description: Identify the project and the specific point you want to investigate or correct.
+      label: Project and specific task
+      description: Link the repository and relevant issue, claim, source location, or documentation passage. What do you want to check, improve, or contribute?
     validations:
       required: true
   - type: textarea
     id: evidence
     attributes:
-      label: Source and evidence
-      description: Give the source link or identifier and exact location. Describe what you inspected and what remains unavailable.
+      label: Evidence or proposed approach
+      description: Give a source reference, a small plan, a correction, or a reproduction result. For completed tests, include inputs, versions, steps, expected output, and actual output. Explain missing evidence.
     validations:
       required: true
   - type: textarea
-    id: method
+    id: limits
     attributes:
-      label: Method and reproduction
-      description: When applicable, provide inputs, code version, steps, assumptions, expected output, and actual output.
-    validations:
-      required: false
-  - type: textarea
-    id: uncertainty
-    attributes:
-      label: Uncertainty and alternatives
-      description: Separate observations from interpretation. Note ambiguous signs, failed checks, exposure to expected text, or other explanations.
-    validations:
-      required: false
-  - type: textarea
-    id: credit
-    attributes:
-      label: Earlier work, AI assistance, and rights
-      description: Credit relevant researchers and materials. Describe AI assistance and checks, if used, and any limits on sharing source material.
+      label: Uncertainty, credit, and coordination
+      description: Note assumptions, alternatives, failed checks, related work in progress, earlier researchers or known keys, relevant AI assistance, and any access or reuse limits. Include only what applies.
     validations:
       required: false

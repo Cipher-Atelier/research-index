@@ -1,16 +1,18 @@
 name: Community introduction
-description: Introduce your public GitHub identity and research interests.
+description: Optional public introduction and research discussion.
 title: "[Introduction] "
+assignees: [cayde-6]
 body:
   - type: markdown
     attributes:
       value: |
         Welcome to Cipher-Atelier. This issue is public.
+        Use this optional issue for a public introduction and research discussion.
         Use your GitHub identity and share only a brief introduction and research interests.
         Do not include your email, address, telephone number, age, employer details, or other private personal information.
         You can contribute through issues and pull requests without organization membership.
-        Participation is free. Maxim Egorov (@cayde-6) decides organization invitations manually.
-        An introduction does not create membership, an automatic role, or a guaranteed review time.
+        Participation is free. A public introduction does not create membership or repository permissions.
+        For founder contact or a membership application, email Maxim Egorov privately at maxim.egorov.dev@gmail.com (mailto:maxim.egorov.dev@gmail.com). This public form is not a membership application.
   - type: textarea
     id: introduction
     attributes:

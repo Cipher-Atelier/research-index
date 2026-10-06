@@ -4,6 +4,12 @@ A starting point for shared research into unresolved records, historical ciphers
 
 Founded by [Maxim Egorov](https://github.com/cayde-6), Cipher-Atelier brings together questions that benefit from careful reading, computation, and collaboration. AI can help with that work; claims still need sources, reproducible checks, and human judgment.
 
+**Start contributing:** [Start a new investigation, join existing work, or improve the documentation](START_HERE.md).
+
+## A community, with credit to its creators
+
+Cipher Atelier is an informal community of people with shared research interests, not a company. We do not claim ownership of participants’ work or discoveries. Authorship, credit, and applicable rights remain with the respective creators and rights holders. For collaborative work, agree on and record each person’s contribution. This statement does not grant or change any licence.
+
 ## Investigations
 
 These short summaries reflect the published research record checked on **6 October 2026**. They describe progress, not a count of solved ciphers. Each linked repository carries the fuller account and its limitations.
@@ -32,6 +38,8 @@ A prior publication, catalogue label, or unsuccessful literature search cannot b
 
 ## Find a useful first contribution
 
+We aim to advance research together, share findings, make new connections, and learn from one another. Read existing work and coordinate with researchers already studying a cipher before starting overlapping changes or reorganizing shared material. Respect ongoing efforts and avoid disrupting them. Independent verification, constructive criticism, and evidence-based alternatives remain welcome.
+
 Choose one small, checkable question:
 
 - Confirm a source reference or compare an uncertain glyph.
@@ -40,13 +48,15 @@ Choose one small, checkable question:
 - Add a relevant earlier publication or correct an attribution.
 - Explain a negative result or a limitation more clearly.
 
-For a new research question, open a [research or evidence issue](https://github.com/Cipher-Atelier/research-index/issues/new?template=research.yml). For work on an existing investigation, use that repository’s issues or pull requests and link the relevant passage. Questions beyond the current collection are welcome when their sources and scope are clear.
+To start a new investigation, open a [research proposal](https://github.com/Cipher-Atelier/research-index/issues/new?template=research-proposal.yml). Maxim reviews the scope and decides whether to create a public research repository, connect it to an existing project, request more information, or decline it. For an existing investigation, use its issues or submit a PR from your fork. Follow the [step-by-step guide](START_HERE.md) for research, review, and documentation contributions.
 
 ## Join the community
 
-Read the [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/Cipher-Atelier/.github/blob/main/CODE_OF_CONDUCT.md). You do not need organization membership to contribute.
+Read the [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/Cipher-Atelier/.github/blob/main/CODE_OF_CONDUCT.md).
 
-Use the [community introduction](https://github.com/Cipher-Atelier/research-index/issues/new?template=join.yml) to share your public GitHub introduction and research interests. Do not post private contact details or other personal data. Participation is free. Maxim decides organization invitations manually; introducing yourself does not grant a role or guarantee a review time.
+Anyone with shared research interests may apply to join the community by emailing founder [Maxim Egorov](https://github.com/cayde-6) privately at [maxim.egorov.dev@gmail.com](mailto:maxim.egorov.dev@gmail.com). Maxim reviews applications as the community organizer. A meaningful contribution may also lead to an invitation.
+
+Invitations are manual. Membership does not automatically grant write or administrator access to repositories; those permissions are decided separately. Participation is free, and there is no promised review time. You can contribute through public issues and pull requests without organization membership. Public research proposals and issues are not membership applications.
 
 ## Support the research
 
