@@ -48,6 +48,12 @@ Read the [contribution guide](https://github.com/Cipher-Atelier/.github/blob/mai
 
 Use the [community introduction](https://github.com/Cipher-Atelier/research-index/issues/new?template=join.yml) to share your public GitHub introduction and research interests. Do not post private contact details or other personal data. Participation is free. Maxim decides organization invitations manually; introducing yourself does not grant a role or guarantee a review time.
 
+## Support the research
+
+[Support Maxim’s work on Cipher Atelier](https://github.com/sponsors/cayde-6).
+
+Donations will fund research-related subscriptions for community participants and paid research requests to libraries, archives, and other organizations. Receipts and supporting expense records will be available on request, with personal and payment information redacted. Contributions are received through founder Maxim Egorov’s personal GitHub Sponsors account, rather than a separate organization fund.
+
 ## Sources, credit, and rights
 
 The initial collection continues the [published historical-cipher catalogue](https://github.com/cayde-6/historical-cipher-research). Each project should identify its archival sources, earlier researchers, current evidence, and unresolved questions.
