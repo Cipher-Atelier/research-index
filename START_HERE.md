@@ -54,6 +54,8 @@ Short contributions can put these details directly in the issue or PR. You do no
 
 For founder contact or to apply for organization membership, email [Maxim Egorov privately](mailto:maxim.egorov.dev@gmail.com). Maxim reviews applications as the community organizer; a meaningful contribution may also lead to an invitation. Research proposals are public research discussions. Invitations are manual; membership does not automatically grant repository write or administrator access, and there is no promised review time.
 
+In your private membership application, include your contact email address, a link to your GitHub profile, and a brief explanation of why you want to join. Send these details only by email; do not post your contact email in a public issue.
+
 Contributors retain their authorship and existing rights. Credit the people and sources behind the work, and follow the applicable repository and item-specific terms. Hosting a file here does not give us rights to someone else's archival scan, text, or dataset. If redistribution permission is unclear, link to the authorized source instead. Do not post private correspondence, personal contact details, credentials, or restricted material in a public issue or PR.
 
 Read the [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md) and [community code of conduct](https://github.com/Cipher-Atelier/.github/blob/main/CODE_OF_CONDUCT.md). Maintainers can use the [triage and repository checklist](docs/MAINTAINER_CHECKLIST.md).
