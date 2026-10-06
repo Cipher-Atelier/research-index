@@ -1,0 +1,47 @@
+name: Propose new research
+description: Propose a question and request a public Cipher-Atelier research repository.
+title: "[Proposal] "
+assignees: [cayde-6]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose new investigations in Cipher-Atelier/research-index. If you opened this elsewhere, link the related project so it can be routed.
+        Maxim reviews proposals and creates a public repository only after approving its scope. This form does not create a repository or apply for membership.
+        This issue is public. Link restricted sources rather than uploading them; omit private contact details and other private data.
+        An early question, partial result, or negative result is welcome. Keep answers short and say what is unknown.
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question and scope
+      description: What do you want to establish? Identify the material and a manageable first step.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources and access
+      description: Give stable links or catalogue identifiers, exact locations, what you inspected, and any missing evidence or reuse restrictions. Say if no source is accessible yet.
+    validations:
+      required: true
+  - type: textarea
+    id: related-work
+    attributes:
+      label: Related projects and earlier work
+      description: Link relevant Cipher-Atelier work and prior publications, readings, keys, tools, or datasets. State what you searched and what remains unchecked; a search alone does not establish novelty.
+    validations:
+      required: true
+  - type: textarea
+    id: first-test
+    attributes:
+      label: First test and current uncertainty
+      description: Describe one test, the evidence it needs, possible outcomes, and what would count against the idea. State any known-key use, proposed reconstruction, AI assistance, or partial result.
+    validations:
+      required: true
+  - type: textarea
+    id: contribution
+    attributes:
+      label: Your contribution and help needed
+      description: What would you like to work on? What help or source access would be useful? You do not need credentials, a deadline, or a finished solution.
+    validations:
+      required: false
