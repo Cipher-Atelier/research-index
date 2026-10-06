@@ -8,15 +8,15 @@ Founded by [Maxim Egorov](https://github.com/cayde-6), Cipher-Atelier brings tog
 
 These short summaries reflect the published research record checked on **6 October 2026**. They describe progress, not a count of solved ciphers. Each linked repository carries the fuller account and its limitations.
 
-- **[Anna Tichá postcards](https://github.com/Cipher-Atelier/anna-ticha)**: Partial readings across selected cards; source alternatives, dates, and the wider collection remain open.
-- **[Malsburg 1637](https://github.com/Cipher-Atelier/malsburg-1637)**: A 510-letter alphabetic-block reading proposal; unresolved markers and external historical and palaeographic verification remain.
-- **[Berlin 1940 · HCP128](https://github.com/Cipher-Atelier/berlin-1940)**: Coherent fixed-key continuation with a computational holdout; source ambiguities and unused alphabet values remain unresolved.
-- **[Madrid 1940 · HCP125](https://github.com/Cipher-Atelier/madrid-1940)**: Weaker partial reading; damaged or ambiguous source signs, singleton mappings, and anomalous wording remain.
-- **[Kingston 1907 · HCP1193](https://github.com/Cipher-Atelier/kingston-1907)**: Partial reading with 213 of 222 positions mapped; eight ambiguous signs and an unexplained key position remain.
-- **[Louis XIII · 30 June 1635](https://github.com/Cipher-Atelier/louis-xiii-june-1635)**: Partial key reconstruction and local readings; no continuous independently verified decipherment.
-- **[Châtillon to Servien · 3 August 1635](https://github.com/Cipher-Atelier/chatillon-1635)**: Conditional mappings and dependency tests; no complete decipherment or uniquely validated key.
-- **[Desportes 1593](https://github.com/Cipher-Atelier/desportes-1593)**: Partial working reconstruction using Tomokiyo’s published key, with Rosson’s prior reading credited; no new key or complete solution.
-- **[Lincker 1672](https://github.com/Cipher-Atelier/lincker-1672)**: Corrected partial application of a surviving 1666 key; missing vocabulary codes prevent a full reading.
+- **[Cipher postcards addressed to Anna Tichá](https://github.com/Cipher-Atelier/anna-ticha-cipher-postcards)**: Partial readings across selected cards; source alternatives, dates, and the wider collection remain open.
+- **[Malsburg’s cipher letter (1637)](https://github.com/Cipher-Atelier/malsburg-cipher-letter-1637)**: A 510-letter alphabetic-block reading proposal; unresolved markers and external historical and palaeographic verification remain.
+- **[Slovak cipher telegram to Berlin (14 June 1940)](https://github.com/Cipher-Atelier/slovak-cipher-telegram-to-berlin-1940)**: Coherent fixed-key continuation with a computational holdout; source ambiguities and unused alphabet values remain unresolved.
+- **[Slovak cipher telegram to Madrid (11 November 1940)](https://github.com/Cipher-Atelier/slovak-cipher-telegram-to-madrid-1940)**: Weaker partial reading; damaged or ambiguous source signs, singleton mappings, and anomalous wording remain.
+- **[Kingston cipher postcard (8 December 1907)](https://github.com/Cipher-Atelier/kingston-cipher-postcard-1907)**: Partial reading with 213 of 222 positions mapped; eight ambiguous signs and an unexplained key position remain.
+- **[Louis XIII’s cipher letter to Châtillon and Brézé (30 June 1635)](https://github.com/Cipher-Atelier/louis-xiii-cipher-letter-june-1635)**: Partial key reconstruction and local readings; no continuous independently verified decipherment.
+- **[Châtillon’s cipher letter to Servien (3 August 1635)](https://github.com/Cipher-Atelier/chatillon-to-servien-cipher-letter-1635)**: Conditional mappings and dependency tests; no complete decipherment or uniquely validated key.
+- **[Desportes to Aldobrandini: cipher letter (22 July 1593)](https://github.com/Cipher-Atelier/desportes-to-aldobrandini-cipher-letter-1593)**: Partial working reconstruction using Tomokiyo’s published key, with Rosson’s prior reading credited; no new key or complete solution.
+- **[Lincker’s cipher letter to Vultejus (May 1672)](https://github.com/Cipher-Atelier/lincker-to-vultejus-cipher-letter-1672)**: Corrected partial application of a surviving 1666 key; missing vocabulary codes prevent a full reading.
 
 The June royal letter and the August Châtillon letter are separate investigations. A shared period or archive does not establish a shared key.
 
