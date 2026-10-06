@@ -13,6 +13,7 @@ body:
         You can contribute through issues and pull requests without organization membership.
         Participation is free. A public introduction does not create membership or repository permissions.
         For founder contact or a membership application, email Maxim Egorov privately at maxim.egorov.dev@gmail.com (mailto:maxim.egorov.dev@gmail.com). This public form is not a membership application.
+        In your private membership application, include your contact email address, a link to your GitHub profile, and a brief explanation of why you want to join. Send these details only by email; do not post your contact email in a public issue.
   - type: textarea
     id: introduction
     attributes:

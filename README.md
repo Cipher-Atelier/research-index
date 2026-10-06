@@ -56,6 +56,8 @@ Read the [contribution guide](https://github.com/Cipher-Atelier/.github/blob/mai
 
 Anyone with shared research interests may apply to join the community by emailing founder [Maxim Egorov](https://github.com/cayde-6) privately at [maxim.egorov.dev@gmail.com](mailto:maxim.egorov.dev@gmail.com). Maxim reviews applications as the community organizer. A meaningful contribution may also lead to an invitation.
 
+In your private membership application, include your contact email address, a link to your GitHub profile, and a brief explanation of why you want to join. Send these details only by email; do not post your contact email in a public issue.
+
 Invitations are manual. Membership does not automatically grant write or administrator access to repositories; those permissions are decided separately. Participation is free, and there is no promised review time. You can contribute through public issues and pull requests without organization membership. Public research proposals and issues are not membership applications.
 
 ## Support the research
