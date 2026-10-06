@@ -6,9 +6,7 @@ Founded by [Maxim Egorov](https://github.com/cayde-6), Cipher-Atelier brings tog
 
 **Start contributing:** [Start a new investigation, join existing work, or improve the documentation](START_HERE.md).
 
-## A community, with credit to its creators
-
-Cipher Atelier is an informal community of people with shared research interests, not a company. We do not claim ownership of participants’ work or discoveries. Authorship, credit, and applicable rights remain with the respective creators and rights holders. For collaborative work, agree on and record each person’s contribution. This statement does not grant or change any licence.
+Cipher Atelier is an informal research community, not a company. We claim no ownership of participants’ work or discoveries. Authorship, credit and rights remain with the respective creators and rights holders; collaborative work credits each person’s contribution.
 
 ## Investigations
 
@@ -36,29 +34,19 @@ The June royal letter and the August Châtillon letter are separate investigatio
 
 A prior publication, catalogue label, or unsuccessful literature search cannot by itself establish worldwide priority. Earlier readings and keys remain credited. Some repositories are summaries rather than self-contained reproduction packages; their missing evidence must stay explicit.
 
-## Find a useful first contribution
+## Contribute
 
-We aim to advance research together, share findings, make new connections, and learn from one another. Read existing work and coordinate with researchers already studying a cipher before starting overlapping changes or reorganizing shared material. Respect ongoing efforts and avoid disrupting them. Independent verification, constructive criticism, and evidence-based alternatives remain welcome.
+To start an investigation, open a [research proposal](https://github.com/Cipher-Atelier/research-index/issues/new?template=research-proposal.yml). Maxim reviews the scope and decides whether to host a new public repository or connect it to existing work.
 
-Choose one small, checkable question:
-
-- Confirm a source reference or compare an uncertain glyph.
-- Reproduce a documented result and report the exact inputs.
-- Test an alternative without silently changing the original transcription.
-- Add a relevant earlier publication or correct an attribution.
-- Explain a negative result or a limitation more clearly.
-
-To start a new investigation, open a [research proposal](https://github.com/Cipher-Atelier/research-index/issues/new?template=research-proposal.yml). Maxim reviews the scope and decides whether to create a public research repository, connect it to an existing project, request more information, or decline it. For an existing investigation, use its issues or submit a PR from your fork. Follow the [step-by-step guide](START_HERE.md) for research, review, and documentation contributions.
+For an existing project, use its issues or submit a focused PR from your fork. Coordinate overlapping work; independent checks and alternative explanations are welcome. [Start here](START_HERE.md) gives the practical steps and optional research templates. Public contributions do not require organization membership.
 
 ## Join the community
 
-Read the [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md) and [code of conduct](https://github.com/Cipher-Atelier/.github/blob/main/CODE_OF_CONDUCT.md).
-
-Anyone with shared research interests may apply to join the community by emailing founder [Maxim Egorov](https://github.com/cayde-6) privately at [maxim.egorov.dev@gmail.com](mailto:maxim.egorov.dev@gmail.com). Maxim reviews applications as the community organizer. A meaningful contribution may also lead to an invitation.
+For founder contact or to apply for membership, email [maxim.egorov.dev@gmail.com](mailto:maxim.egorov.dev@gmail.com) privately.
 
 In your private membership application, include your contact email address, a link to your GitHub profile, and a brief explanation of why you want to join. Send these details only by email; do not post your contact email in a public issue.
 
-Invitations are manual. Membership does not automatically grant write or administrator access to repositories; those permissions are decided separately. Participation is free, and there is no promised review time. You can contribute through public issues and pull requests without organization membership. Public research proposals and issues are not membership applications.
+Maxim reviews applications and decides invitations manually. A meaningful contribution may also lead to an invitation. Membership does not automatically grant repository write or administrator access. Participation is free; no review time is promised.
 
 ## Support the research
 
@@ -66,10 +54,6 @@ Invitations are manual. Membership does not automatically grant write or adminis
 
 Donations will fund research-related subscriptions for community participants and paid research requests to libraries, archives, and other organizations. Receipts and supporting expense records will be available on request, with personal and payment information redacted. Contributions are received through founder Maxim Egorov’s personal GitHub Sponsors account, rather than a separate organization fund.
 
-## Sources, credit, and rights
+## Sources and detailed guidance
 
-The initial collection continues the [published historical-cipher catalogue](https://github.com/cayde-6/historical-cipher-research). Each project should identify its archival sources, earlier researchers, current evidence, and unresolved questions.
-
-AI-assisted transcription, analysis, code, and writing must be identified when relevant to a result. AI-generated text is not a historical source, and another model’s agreement is not independent human certification.
-
-Check the rights of each item separately. Public access does not establish permission to republish a scan. No new blanket licence is granted here over third-party images, texts, or datasets. Follow each material’s stated terms; when reuse is unclear, link to the provider instead of copying the material.
+The initial collection continues the [published historical-cipher catalogue](https://github.com/cayde-6/historical-cipher-research). Each project records its sources, prior work and limits. The [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md) explains evidence, reproducibility, AI disclosure and item-specific rights; public access to a source does not establish permission to republish it. Follow the [community code of conduct](https://github.com/Cipher-Atelier/.github/blob/main/CODE_OF_CONDUCT.md).
