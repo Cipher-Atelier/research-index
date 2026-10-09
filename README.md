@@ -24,6 +24,10 @@ These short summaries reflect the published research record checked on **6 Octob
 
 The June royal letter and the August Châtillon letter are separate investigations. A shared period or archive does not establish a shared key.
 
+### Updates from 7–9 October 2026
+
+The [9 October research-update index](research-updates/2026-10-09/README.md) links ten short reports submitted for draft review. These document completed checks and their limits; the new full experiment code is not included. The dated 6 October summaries above remain the earlier published record.
+
 ## How to read a result
 
 - **Partial reading:** useful passages or mappings exist, but source units, values, or interpretation remain unresolved.
@@ -56,4 +60,4 @@ Donations will fund research-related subscriptions for community participants an
 
 ## Sources and detailed guidance
 
-The initial collection continues the [published historical-cipher catalogue](https://github.com/cayde-6/historical-cipher-research). Each project records its sources, prior work and limits. The [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md) explains evidence, reproducibility, AI disclosure and item-specific rights; public access to a source does not establish permission to republish it. Follow the [community code of conduct](https://github.com/Cipher-Atelier/.github/blob/main/CODE_OF_CONDUCT.md).
+The [Anna Tichá](https://github.com/Cipher-Atelier/anna-ticha-cipher-postcards), [Malsburg](https://github.com/Cipher-Atelier/malsburg-cipher-letter-1637), [Berlin](https://github.com/Cipher-Atelier/slovak-cipher-telegram-to-berlin-1940), [Madrid](https://github.com/Cipher-Atelier/slovak-cipher-telegram-to-madrid-1940), and [Kingston](https://github.com/Cipher-Atelier/kingston-cipher-postcard-1907) investigations are maintained in their dedicated Cipher-Atelier repositories. Each project records its sources, prior work and limits. The [contribution guide](https://github.com/Cipher-Atelier/.github/blob/main/CONTRIBUTING.md) explains evidence, reproducibility, AI disclosure and item-specific rights; public access to a source does not establish permission to republish it. Follow the [community code of conduct](https://github.com/Cipher-Atelier/.github/blob/main/CODE_OF_CONDUCT.md).
