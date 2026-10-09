@@ -15,7 +15,8 @@ The updates are submitted for review through draft pull requests. They are docum
 | Debosnys | [Control and source checks](debosnys.md) | Cloze3 failed its controls; the copy-source remains unproved. |
 | Dorabella | [Cyclic-shift test](dorabella.md) | A finite tested scheme was negative; no new letters. |
 | Foix | [Baseline and witness comparison](foix.md) | Frozen counts, updated narrative and different witnesses stay separate. |
+| Warsaw HCP81 | [Bounded tests and archival lead](warsaw-hcp81.md) | No coherent reading; one table check does not exclude all XQ. |
 
-Rome, Debosnys, Dorabella and Foix are hosted here without creating dedicated repositories. Source links provide access and attribution; they do not confer redistribution rights or independently validate the new research figures. No scans, crops, books, full Potter text, private correspondence or new blanket licence are included. Codex assisted the summaries and evidence checking; this is not external human expert review.
+Rome, Debosnys, Dorabella, Foix and Warsaw HCP81 are hosted here without creating dedicated repositories. Source links provide access and attribution; they do not confer redistribution rights or independently validate the new research figures. No scans, crops, books, full Potter text, private correspondence or new blanket licence are included. Codex assisted the summaries and evidence checking; this is not external human expert review.
 
 The full 27-file Library handoff was not materialized or verified and is not the source of these standalone summaries. Its hash has not been confirmed. These reports therefore must not be described as publication of that complete package.

@@ -26,7 +26,7 @@ The June royal letter and the August Châtillon letter are separate investigatio
 
 ### Updates from 7–9 October 2026
 
-The [9 October research-update index](research-updates/2026-10-09/README.md) links nine short reports submitted for draft review. These document completed checks and their limits; the new full experiment code is not included. The dated 6 October summaries above remain the earlier published record.
+The [9 October research-update index](research-updates/2026-10-09/README.md) links ten short reports submitted for draft review. These document completed checks and their limits; the new full experiment code is not included. The dated 6 October summaries above remain the earlier published record.
 
 ## How to read a result
 
