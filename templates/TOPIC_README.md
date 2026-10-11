@@ -10,6 +10,10 @@ State the question, material, and limits of the investigation in a short paragra
 - Current status: proposed / active / paused / concluded
 - Evidence status: untested hypothesis / partial result / conditional result / reproduced result / independently reviewed result
 - Latest update:
+- Source transcription / sign records:
+- Literal output (retain gaps and awkward wording):
+- Interpretation / translation (state whether partial):
+- Missing public evidence:
 
 Explain what has actually been established and what remains unresolved. An activity status is not a verdict on the claim. Name the exact claim and review record behind any “reproduced” or “reviewed” description.
 
@@ -27,7 +31,7 @@ Summarize the literal result, interpretation, and confidence separately. Identif
 
 ## Reproduce or review the work
 
-Link a minimal procedure with the exact inputs, versions, and expected outputs. State source-access or environment limits. Summarize what another person has independently checked and what they have not. If reproduction is not yet possible, say what is needed.
+Give one source → sign → key/model → output example that can be checked without programming. Link a minimal procedure with the exact inputs, versions, and expected outputs. State which packages each command includes; a passing replay does not establish historical truth. State source-access or environment limits. Summarize what another person has independently checked and what they have not. If reproduction is not yet possible, say what is needed.
 
 ## Help with the next step
 
