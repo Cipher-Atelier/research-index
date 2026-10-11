@@ -2,7 +2,7 @@
 
 These short reports record completed research checks from 7–9 October. They preserve partial readings, source gaps and bounded negative results. None claims a complete new decipherment.
 
-The updates are submitted for review through draft pull requests. They are documentation, not the full new experiment code or a self-contained reproduction package. The research checks described in them were completed earlier; publication-stage verification has a narrower scope stated in each report. Existing dedicated repositories retain their older public replay materials.
+**Publication-status correction — 11 October 2026:** these short reports are now published in the index and dedicated repositories. At original submission, they were draft pull requests. They are documentation, not the full new experiment code or a self-contained reproduction package. The research checks described in them were completed earlier; publication-stage verification has a narrower scope stated in each report. Existing dedicated repositories retain their older public replay materials.
 
 | Investigation | Update location | Main limit |
 | --- | --- | --- |

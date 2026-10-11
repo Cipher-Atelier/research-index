@@ -29,7 +29,7 @@ Only the organization owner creates the new public repository after manually app
 
 Use the [review template](../templates/CONTRIBUTION_REVIEW.md) for substantial changes. Check the specific sources, tests, attribution, and claim limits that apply. Give concrete revision requests and preserve useful negative results. Record what was independently checked and what still relies on the original inputs.
 
-Merge only through the repository's configured review process. Update the README or index when the contribution materially changes a published summary. A merge is not a certificate that a claim is true.
+Merge only through the repository's configured review process. Update the project README, reading index and organization research index when the contribution materially changes a published summary. Link source/sign evidence, literal output and interpretation separately; record unresolved or unavailable evidence and the exact check scope. Preserve frozen first results and dated corrections. Verify main/PR state before calling new material published or merged. A merge is not a certificate that a claim is true.
 
 ## Check issue routing
 
