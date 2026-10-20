@@ -1,6 +1,6 @@
 # Start here
 
-Cipher-Atelier is an informal research community founded by [Maxim Egorov](https://github.com/cayde-6). We study questions that can be investigated through sources, careful reasoning, and repeatable tests. The [research index](README.md) currently covers nine historical-cipher investigations; proposals beyond letters and ciphers are welcome when the question and evidence are clear.
+Cipher Atelier is an informal research community founded by [Maxim Egorov](https://github.com/cayde-6). We study questions that can be investigated through sources, careful reasoning, and repeatable tests. The [research index](README.md) currently covers nine historical-cipher investigations; proposals beyond letters and ciphers are welcome when the question and evidence are clear.
 
 Choose the route that fits your next step. Participation is free. You can open an issue, fork a public repository, and submit a pull request without joining the GitHub organization.
 

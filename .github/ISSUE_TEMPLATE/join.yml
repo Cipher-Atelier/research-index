@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Welcome to Cipher-Atelier. This issue is public.
+        Welcome to Cipher Atelier. This issue is public.
         Use this optional issue for a public introduction and research discussion.
         Use your GitHub identity and share only a brief introduction and research interests.
         Do not include your email, address, telephone number, age, employer details, or other private personal information.
