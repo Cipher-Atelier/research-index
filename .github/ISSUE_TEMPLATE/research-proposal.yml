@@ -1,5 +1,5 @@
 name: Propose new research
-description: Propose a question and request a public Cipher-Atelier research repository.
+description: Propose a question and request a public Cipher Atelier research repository.
 title: "[Proposal] "
 assignees: [cayde-6]
 body:
@@ -28,7 +28,7 @@ body:
     id: related-work
     attributes:
       label: Related projects and earlier work
-      description: Link relevant Cipher-Atelier work and prior publications, readings, keys, tools, or datasets. State what you searched and what remains unchecked; a search alone does not establish novelty.
+      description: Link relevant Cipher Atelier work and prior publications, readings, keys, tools, or datasets. State what you searched and what remains unchecked; a search alone does not establish novelty.
     validations:
       required: true
   - type: textarea
